@@ -19,9 +19,7 @@ The dataset "PATEMS.csv" is included in the repository as CSVs, originally sourc
 3. An LSTM model is trained on 80% of the data and validated on the remaining 20%
 4. The model forecasts 3 months into the future by feeding its own predictions back as input
 
-## Models
-
-All three models share the same architecture with minor differences in learning rate:
+## Model
 
 | Series | Hidden Units | Batch Size | Epochs | Learning Rate |
 |---|---|---|---|---|
