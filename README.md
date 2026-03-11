@@ -1,6 +1,4 @@
-Looking at the actual code and results, here's the README:
-
-markdown# PAYEMS Employment Forecaster
+## PAYEMS Employment Forecaster
 
 An LSTM neural network that predicts US nonfarm payroll employment (PAYEMS) 
 using data from the Federal Reserve Bank of St. Louis (FRED).
