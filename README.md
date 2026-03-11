@@ -6,20 +6,11 @@ using data from the Federal Reserve Bank of St. Louis (FRED).
 ## Prerequisites
 
 - Python 3
-- The following packages:
-  - tensorflow
-  - pandas
-  - numpy
-  - scikit-learn
-  - scipy
-  - seaborn
-  - matplotlib
 
 ## Data
 
-The model uses the PAYEMS series (Total Nonfarm Payroll Employment) from FRED. 
-Download it as a CSV from https://fred.stlouisfed.org/series/PAYEMS and place 
-it in the project root as `PAYEMS.csv`.
+The model uses the PAYEMS series (Total Nonfarm Payroll Employment) from FRED.
+The `PAYEMS.csv` file is included in this repository.
 
 ## How It Works
 
