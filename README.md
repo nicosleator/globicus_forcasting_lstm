@@ -24,7 +24,7 @@ All datasets are included in the repository, sourced from FRED.
 | File | Series | Description |
 |---|---|---|
 | `PAYEMS.csv` | PAYEMS | Total Nonfarm Payroll Employment |
-| `UNRATE_260208.csv` | UNRATE | Unemployment Rate |
+| `UNRATE.csv` | UNRATE | Unemployment Rate |
 
 ## Configuration
 
@@ -38,7 +38,7 @@ lr       = 1e-4             # learning rate
 | Series | CSV | LR |
 |---|---|---|
 | PAYEMS | PAYEMS.csv | 1e-4 |
-| UNRATE | UNRATE_260208.csv | 1e-4 |
+| UNRATE | UNRATE.csv | 1e-4 |
 
 ## How It Works
 
